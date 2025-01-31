@@ -120,7 +120,7 @@ Your performance for Sprint 3 will be evaluated as follows:
      - **Retrospective Insights (10 Points)**: Reflective analysis, actionable improvements, and team reflection on sprint satisfaction.
 
 ### 3. **Group Presentation (30 Points)**
-   - Delivery, clarity, and teamwork during the 15-minute presentation.
+   - Delivery, clarity, and teamwork during the 10-12-minute presentation.
    - **Breakdown**:
      - **Clarity and Structure (10 Points)**: Clear explanation, logical flow, and effective communication.
      - **Coverage of Sprint Outcomes (10 Points)**: Highlighting progress, addressing goals, showing functionality.

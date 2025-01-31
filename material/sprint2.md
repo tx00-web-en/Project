@@ -34,7 +34,7 @@
 
 > Suggested Workflow for Weeks 3, 4, and the Start of Week 5:
 
-#### Week 3:
+#### Week 3/4:
 
 **Front-End:**
 
@@ -51,7 +51,7 @@
 - **Step 1:** Develop the necessary mock data, controllers, routers, and middleware for your application. This includes setting up your back-end structure and defining routes for different API endpoints. You can use [Mockaroo](https://www.mockaroo.com/) or tools like ChatGPT to generate mock data.
 - **Step 2:** Test all API endpoints using Postman. Organize your API routes by creating collections in Postman. This step is critical for validating the functionality and correctness of your back-end processes.
 
-#### Week 4:
+#### Week 4/5:
 
 **Front-End:**
 
@@ -63,7 +63,7 @@
 
 - Enhance the data model to incorporate data persistence using a database.
 
-#### Beginning of Week 5:
+**Presentation:**
 
 - Prepare a presentation summarizing your work for Sprint 2.
 - Submit all deliverables to OMA.
@@ -88,7 +88,7 @@ Your group's performance for Sprint 2 will be evaluated based on the following c
      - Quality of Retrospective Insights
 
 3. **Group Presentation (25 Points)**
-   - The quality and delivery of the 15-minute group presentation. This includes clarity, how well progress is communicated, and team collaboration during the presentation.
+   - The quality and delivery of the  10-12-minute group presentation. This includes clarity, how well progress is communicated, and team collaboration during the presentation.
    - **Breakdown:**
      - Clarity and Structure:
      - Coverage of Sprint Outcomes and Next Steps
