@@ -56,7 +56,7 @@ Bonus points can be earned if:
 
 ### Block Diagram Fullstack Application
 
-![](./img/fullsatck.png)
+![](./img/fullsatck-new.png)
 
 
 ### Project Ideas
@@ -98,3 +98,5 @@ Bonus points can be earned if:
 user stories referred to as tickets:
 https://www.jacobparis.com/content/agile-ticketing 
 -->
+
+<!--  -->
