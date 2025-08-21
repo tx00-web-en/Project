@@ -1,7 +1,7 @@
 # Sprint 1: Deadline 2025-09-05
 
 
-<!-- - [Deliverables](#deliverables)
+- [Deliverables](#deliverables)
 - [Assessment Criteria](#assessment-criteria)
 - [Considerations](#considerations)
 - [Block Diagram Fullstack Application](#block-diagram-fullstack-application)
@@ -56,7 +56,7 @@ Bonus points can be earned if:
 
 ### Block Diagram Fullstack Application
 
-![](./img/fullsatck-new.png)
+![](./img/fullsatck-ai.png)
 
 
 ### Project Ideas
@@ -85,7 +85,7 @@ Bonus points can be earned if:
 10. **Job Board Platform**: Create a job board where employers can post job listings and job seekers can search and apply for jobs. Implement features such as filtering by location, job type, and skill requirements. Users can have profiles with their resumes and application history. 
 
 11. **Language Learning App**: Develop a platform for learning languages, incorporating vocabulary exercises, quizzes, and flashcards. Users can select the language they want to learn and track their progress. 
- -->
+
 
 
 
