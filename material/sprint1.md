@@ -12,10 +12,10 @@
 
 ### Deliverables
 
-1. Prototype
+1. Prototype:
   - [Low-fidelity]
   - Tools: [Figma](https://www.figma.com/) or [Draw.io](https://app.diagrams.net/) 
-2. Project description 
+2. Project description:
   - The title of the project
   - The names of the members
   - The target users and other stakeholders
