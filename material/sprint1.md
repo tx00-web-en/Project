@@ -13,14 +13,14 @@
 ### Deliverables
 
 1. Prototype:
-  - [Low-fidelity]
-  - Tools: [Figma](https://www.figma.com/) or [Draw.io](https://app.diagrams.net/) 
+   - [Low-fidelity]
+   - Tools: [Figma](https://www.figma.com/) or [Draw.io](https://app.diagrams.net/) 
 2. Project description:
-  - The title of the project
-  - The names of the members
-  - The target users and other stakeholders
-  - The main functionality of the application. 
-  - Describe the user stories and Product backlog: You might consider using [Trello](https://trello.com/)
+   - The title of the project
+   - The names of the members
+   - The target users and other stakeholders
+   - The main functionality of the application.
+   - Describe the user stories and Product backlog: You might consider using [Trello](https://trello.com/) 
 3. Share your insights on the Sprint ceremonies:
    - Daily Scrum
    - Sprint Review
