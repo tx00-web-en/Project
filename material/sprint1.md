@@ -51,7 +51,7 @@ Bonus points can be earned if:
 
 ### Block Diagram Fullstack Application
 
-![](./img/fullsatck-ai.png)
+![](./img/fullsatck-AI-.png)
 
 ### Project Ideas
 
