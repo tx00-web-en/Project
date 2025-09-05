@@ -1,6 +1,6 @@
  # Sprint 2: Deadline: 2025-09-19
 
-<!--
+
 - [Deliverables](#deliverables)
 - [Considerations](#considerations)
 - [Assessment Criteria](#assessment-criteria-for-sprint-2-total-100-points)
@@ -8,14 +8,10 @@
 
 ---
 
-> **When a group is making a sprint presentation, members from two other groups will be required to ask questions to the presenting group.**
-
----
-
 ## Deliverables
 
 1. **Front-End Code**: Submit all the code related to the front-end development of your application.
-2. **Back-End Code**: Submit all the code related to the back-end development of your application.
+2. **Back-End Code**: Submit all the code related to the back-end development of your application, **including AI related code**.
 3. **Sprint Ceremony Insights**: Share your team's insights and experiences on the following Sprint ceremonies:
    - Daily Scrum
    - Sprint Review
@@ -37,6 +33,8 @@
 
 #### Week 3/4:
 
+**Sprint Planning**
+
 **Front-End:**
 
 - Create the main components for your application and apply the appropriate styles.
@@ -46,8 +44,6 @@
   - **Step 2:** Develop static React components using the converted JSX. These components will form the foundation for your dynamic front-end.
 
 **Back-End:**
-
-> These steps will become clearer after Friday’s session on the MVC pattern.
 
 - **Step 1:** Develop the necessary mock data, controllers, routers, and middleware for your application. This includes setting up your back-end structure and defining routes for different API endpoints. You can use [Mockaroo](https://www.mockaroo.com/) or tools like ChatGPT to generate mock data.
 - **Step 2:** Test all API endpoints using Postman. Organize your API routes by creating collections in Postman. This step is critical for validating the functionality and correctness of your back-end processes.
@@ -62,7 +58,8 @@
 
 **Back-End:**
 
-- Enhance the data model to incorporate data persistence using a database.
+- Implement **endpoints** to handle **calls to the LLM (AI**).
+- Enhance the data model to support data persistence with a database.
 
 **Presentation:**
 
@@ -79,7 +76,7 @@ Your group's performance for Sprint 2 will be evaluated based on the following c
    - The quality and completeness of the artifacts produced during the sprint, including both the front-end and back-end code.
    - **Breakdown:**
      - Front-End Code: 25 Points
-     - Back-End Code: 25 Points
+     - Back-End + AI related Code: 25 Points
 
 2. **Adherence to Scrum Process (25 Points)**
    - How well your team followed the Scrum framework, including participation in daily stand-ups (Daily Scrum), the effectiveness of the sprint review, and the quality of insights from the sprint retrospective.
@@ -148,7 +145,10 @@ Your group's performance for Sprint 2 will be evaluated based on the following c
 
 **Scrum:**
 - [Scrum Metrics 101 | Atlassian](https://www.atlassian.com/agile/scrum/scrum-metrics)
-- [Scrum](https://www.scrum.org/learning-series/what-is-scrum/) -->
+- [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
 
 
 <!-- - For Sprint 3 (**not sprint 2**), the use of Scrum metrics will be part of the assessment criteria. Please refer to the links provided for more information. -->
+
+
+<!-- When a group is making a sprint presentation, members from two other groups will be required to ask questions to the presenting group. -->
