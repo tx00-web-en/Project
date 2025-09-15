@@ -27,7 +27,7 @@
    - Retrospective
    - More on [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
 4. Make sure to include each member’s contributions to this sprint.
-5. Presentation: Here’s a [template for a 10-12-minute presentation](./ppt-template.md) to help you structure your content effectively.
+5. Presentation: Here’s a [template for a 10-12-minute presentation](./ppt-template1.md) to help you structure your content effectively.
 
 > When a group presents their sprint, two other groups will be assigned to ask questions and engage with the presentation.
 
