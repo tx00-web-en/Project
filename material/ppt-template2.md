@@ -42,7 +42,14 @@
 
 ---
 
-### **Slide 6 – Sprint Ceremony Insights**
+### **Slide 6 – Alignment with Sprint 1 Prototype**
+- Show side‑by‑side comparison of prototype vs. current build
+- Highlight functional and design alignment
+- Note any intentional deviations
+
+---
+
+### **Slide 7 – Sprint Ceremony Insights**
 - **Daily Scrum**: attendance, communication highlights
 - **Sprint Review**: feedback from stakeholders (If applicable)
 - **Sprint Retrospective (4Ls)**:
@@ -53,7 +60,14 @@
 
 ---
 
-### **Slide 7 – Team Contributions**
+### **Slide 8 – Remaining Tasks / Next Sprint**
+- Features not completed in Sprint 2
+- Planned improvements for Sprint 3
+- Risks or blockers to address
+
+---
+
+### **Slide 9 – Team Contributions**
 | Member | Key Contributions |
 |--------|-------------------|
 | Name 1 | e.g., Built login form, styled dashboard |
@@ -61,30 +75,10 @@
 | Name 3 | e.g., Created AI endpoints  |
 | Name 4 | e.g., Integrated AI model and tested responses |
 
----
-
-### **Slide 8 – Self‑Assessments**
-- Backend self‑assessment highlights (from LLM review)
-- Frontend self‑assessment highlights (from LLM review)
-
 
 ---
 
-### **Slide 9 – Remaining Tasks / Next Sprint**
-- Features not completed in Sprint 2
-- Planned improvements for Sprint 3
-- Risks or blockers to address
-
----
-
-### **Slide 10 – Alignment with Sprint 1 Prototype**
-- Show side‑by‑side comparison of prototype vs. current build
-- Highlight functional and design alignment
-- Note any intentional deviations
-
----
-
-### **Slide 11 – Summary & Closing**
+### **Slide 10 – Summary & Closing**
 - Recap major achievements of Sprint 2
 - Acknowledge team effort
 - Invite questions
