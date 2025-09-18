@@ -1,14 +1,9 @@
 # Sprint 3: Deadline 2025-10-08
 
-<!-- - [Before Starting This Sprint](#before-starting-this-sprint)
+- [Before Starting This Sprint](#before-starting-this-sprint)
 - [Deliverables](#deliverables)
 - [Considerations](#considerations)
-- [Assessment Criteria](#assessment-criteria-total-200-points)
-
----
-
-
-> **When a group is making a sprint presentation, members from two other groups will be required to ask questions to the presenting group.**
+- [Assessment Criteria](#assessment-criteria-total-150-points--bonus)
 
 ---
 
@@ -62,11 +57,12 @@ After completing two sprints, it’s essential to review key team metrics to opt
 
 ### **Week 5: Connecting Front-End and Back-End**
 
-By the end of this week, your goal is to connect the front-end React app to the back-end API. Up to now, you have worked on these components separately.
+1. **Conduct Sprint Planning**  
+2. By the end of this week, you should be able to connect the front-end React app to the back-end API. Up to now, you have worked on these components separately.  
 
-- **Reference Material**: Use the following playlist as a guide:
-  - [MERN Stack Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE): Videos 1-7 serve as a review of backend concepts, while videos 8-10 focus on connecting the React app to the backend.
-  - [Source Code on GitHub](https://github.com/iamshaunjp/MERN-Stack-Tutorial): Use this repository as a reference.
+   - **Reference Material**:  
+     - [MERN Stack Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE): Videos 1–7 review backend concepts, while videos 8–10 focus on connecting the React app to the backend.  
+     - [Source Code on GitHub](https://github.com/iamshaunjp/MERN-Stack-Tutorial): Use this repository as a reference.
 
 ### **Week 6: Implementing Authentication**
 
@@ -83,7 +79,6 @@ By the end of this week, you should have user authentication fully integrated in
   
 ### **Week 7: Front-End Enhancements and Backend Testing**
 
-
 - **Back-End Testing**:
   - Conduct comprehensive integration testing for the back-end, ensuring API endpoints function correctly. Aim for high testing coverage to maintain code quality and prevent future issues.
 - **Deployment**:
@@ -93,8 +88,6 @@ By the end of this week, you should have user authentication fully integrated in
 
 - **Bonus (15 points)**:  If you manage to create documentation **`for the API`**.
 - (**Bonus 15points**) If you manage to introduce `useContext()`. 
-
-
 
 ---
  
@@ -164,7 +157,6 @@ Your performance for Sprint 3 will be evaluated as follows:
 - [The Essentials of Scrum Metrics: A Comprehensive Guide](https://deeprojectmanager.com/scrum-metrics/)
 - [Excel templates to help you manage and visualize scrum metrics](https://academy.agiledigest.com/template/scrum-metrics-excel-template/)
 
- -->
 
 
 <!-- - API documentation. -->
@@ -179,4 +171,11 @@ Your performance for Sprint 3 will be evaluated as follows:
 
  - **Front-End**:
   - Introduce `useContext()` for prop drilling avoidance, enhancing your app’s management.  
- - `useReducer()` for managing complex state logic -->
+  - `useReducer()` for managing complex state logic 
+ 
+ ---
+
+
+> **When a group is making a sprint presentation, members from two other groups will be required to ask questions to the presenting group.**
+
+-->
