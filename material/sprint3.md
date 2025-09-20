@@ -45,9 +45,10 @@ After completing two sprints, it’s essential to review key team metrics to opt
    - **Prototype Showcase**: Begin by demonstrating the prototype developed during Sprint 1. Highlight key changes or enhancements since then.
    - **Progress Discussion**: Discuss the objectives of Sprint 3, challenges faced, solutions implemented, and the overall progress made. Focus on how the sprint outcomes align with your original prototype and goals.
 
-6. **Self-assessment** of the backend code using your favorite LLM. You can use the [following template](./template.md).
+6. **Self-assessment** of the backend code using your favorite LLM.
 
-7. **Self-assessment** of the frontend code using your favorite LLM. You can use the [following template](./template.md).
+7. **Self-assessment** of the frontend code using your favorite LLM. 
+    - You can use the [following template](./template.md).
 
 ---
 
@@ -75,7 +76,7 @@ By the end of this week, you should have user authentication fully integrated in
   - Integrate JWT (JSON Web Token) authentication for secure communication between the client and server.
   - Use custom hooks.
 - **Deployment**:
-  - Deploy both the front-end and back-end components. 
+  - Deploy the back-end. 
   
 ### **Week 7: Front-End Enhancements and Backend Testing**
 
