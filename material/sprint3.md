@@ -23,8 +23,6 @@ After completing two sprints, it’s essential to review key team metrics to opt
 
 ## Deliverables
 
-> Here’s a [template for a 10-12-minute presentation](./ppt-template3.md) to help you structure your content effectively.
-
 1. **Front-End Code**:
    - Submit the completed code related to the front-end of your application. Ensure the code is clean, follows best practices, and includes appropriate comments for clarity.
    - Incorporate responsive design and optimize the user interface for accessibility and usability.
@@ -45,6 +43,7 @@ After completing two sprints, it’s essential to review key team metrics to opt
 5. **Presentation**:
    - **Prototype Showcase**: Begin by demonstrating the prototype developed during Sprint 1. Highlight key changes or enhancements since then.
    - **Progress Discussion**: Discuss the objectives of Sprint 3, challenges faced, solutions implemented, and the overall progress made. Focus on how the sprint outcomes align with your original prototype and goals.
+   - Here’s a [template for a 10-12-minute presentation](./ppt-template3.md) to help you structure your content effectively.
 
 6. **Self-assessment** of the backend code using your favorite LLM.
 
