@@ -23,6 +23,8 @@ After completing two sprints, it’s essential to review key team metrics to opt
 
 ## Deliverables
 
+> Here’s a [template for a 10-12-minute presentation](./ppt-template3.md) to help you structure your content effectively.
+
 1. **Front-End Code**:
    - Submit the completed code related to the front-end of your application. Ensure the code is clean, follows best practices, and includes appropriate comments for clarity.
    - Incorporate responsive design and optimize the user interface for accessibility and usability.
@@ -30,7 +32,6 @@ After completing two sprints, it’s essential to review key team metrics to opt
 2. **Back-End Code**:
    - Submit all back-end code, including the implemented API, database interactions, and any server-side logic.
    - Include thorough testing for each API endpoint to ensure robustness and reliability.
-
 
 3. **Sprint Ceremony Insights**:
    - **Daily Scrum**: Document key points from your daily stand-ups. Highlight what was accomplished, what is planned for the next day, and any blockers encountered.
