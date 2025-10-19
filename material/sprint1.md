@@ -1,4 +1,4 @@
-# Sprint 1: Deadline 2025-09-05
+# Sprint 1: Deadline 2025-11-07
 
 
 - [Deliverables](#deliverables)
@@ -78,8 +78,10 @@ Bonus points can be earned if:
 
 
 
-<!-- Links -->
 [Low-fidelity]:https://www.invisionapp.com/inside-design/low-fi-vs-hi-fi-prototyping/ 
+
+
+
 
 
 <!-- 
@@ -87,4 +89,4 @@ user stories referred to as tickets:
 https://www.jacobparis.com/content/agile-ticketing 
 -->
 
-<!--  -->
+

@@ -1,5 +1,6 @@
-# Sprint 3: Deadline 2025-10-08
+# Sprint 3: Deadline 2025-12-11
 
+<!-- 
 - [Before Starting This Sprint](#before-starting-this-sprint)
 - [Deliverables](#deliverables)
 - [Considerations](#considerations)
@@ -158,10 +159,13 @@ Your performance for Sprint 3 will be evaluated as follows:
 - [The Essentials of Scrum Metrics: A Comprehensive Guide](https://deeprojectmanager.com/scrum-metrics/)
 - [Excel templates to help you manage and visualize scrum metrics](https://academy.agiledigest.com/template/scrum-metrics-excel-template/)
 
+-->
+
+
+
 
 
 <!-- - API documentation. -->
-
 <!--
 - **Alignment with Sustainable Development Goals**:
   - Evaluate how your project aligns with the [Sustainable Development Goals at Metropolia University](https://www.metropolia.fi/kestavakehitys/en/Home). Consider aspects like accessibility, sustainability, and societal impact.

@@ -17,7 +17,7 @@ filterJobsBySalary = async (req, res) => {
   }
 };
 ```
-
+ 
 The endpoint worked for requests like:  
 `GET http://localhost:4000/api/jobs/salary?min=5000&max=6000`  
 

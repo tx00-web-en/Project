@@ -1,13 +1,13 @@
 # Project
 
-- [Sprint 1](./material/sprint1.md), DL: 2025-09-05
-- **Coding Marathon 1**: 2025-09-12
-- [Sprint 2](./material/sprint2.md), DL: 2025-09-19
-- **Coding Marathon 2**: 2025-09-26
-- **Coding Marathon 3**: 2025-10-03
-- [Sprint 3](./material/sprint3.md), DL: 2025-10-08
-- **Course Feedback**, DL: 2025-10-09
-- **Exam** (*Optional*):  2025-10-10
+- [Sprint 1](./material/sprint1.md), 2025-11-07
+- **Coding Marathon 1**: 2025-11-14
+- [Sprint 2](./material/sprint2.md), DL: 2025-11-21
+- **Coding Marathon 2**: 2025-11-28
+- **Coding Marathon 3**: 2025-12-05
+- [Sprint 3](./material/sprint3.md), DL: 2025-12-11
+- **Course Feedback**, DL: 2025-12-11
+- **Exam** (*Optional*):  2025-12-12
 
 ---
 
