@@ -1,5 +1,5 @@
 
-# Sprint 1 Presentation Template**
+# Sprint 1 Presentation Template
 
 ---
  
