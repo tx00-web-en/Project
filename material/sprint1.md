@@ -67,8 +67,6 @@ Bonus points can be earned if:
 > **If you don’t already have a project idea**, you can consider one of the following MERN fullstack + AI‑powered applications.  
 > These are **examples to inspire your group** — you may use one as‑is, adapt it, or take it in a completely new direction.
 
-#### Detailed Ideas
-
 - [Note‑taking Web App](./ideas/note.md)
 - [AI‑Powered Blogging Platform](./ideas/blog.md)
 - [E‑commerce Store with Admin Dashboard](./ideas/e-commerce.md)
