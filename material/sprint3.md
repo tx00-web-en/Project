@@ -1,4 +1,4 @@
-# Sprint 3: Deadline 2025-12-11
+# Sprint 3: Deadline 2025-12-10
 
 <!-- 
 - [Before Starting This Sprint](#before-starting-this-sprint)

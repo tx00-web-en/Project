@@ -5,7 +5,7 @@
 - [Sprint 2](./material/sprint2.md), DL: 2025-11-21
 - **Coding Marathon 2**: 2025-11-28
 - **Coding Marathon 3**: 2025-12-05
-- [Sprint 3](./material/sprint3.md), DL: 2025-12-11
+- [Sprint 3](./material/sprint3.md), DL: 2025-12-10
 - **Course Feedback**, DL: 2025-12-11
 - **Exam** (*Optional*):  2025-12-12
 
