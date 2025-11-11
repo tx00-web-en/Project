@@ -22,8 +22,8 @@
    - Begin by showcasing the prototype developed during Sprint 1.
    - Discuss the progress made in Sprint 2 and outline any tasks that remain for the next sprint.
    - Here’s a [template for a 10-12-minute presentation](./ppt-template2.md) to help you structure your content effectively.
-6. **Self-assessment** of the backend code using your favorite LLM. You can use the [following template](./template.md).
-7. **Self-assessment** of the frontend code using your favorite LLM. You can use the [following template](./template.md).
+6. **Self-assessment** of the backend code using your favorite LLM. Each member is expected to write a self-assessment about the code he/she contributed. Use [the following template](./template.md) to guide your reflection.
+7. **Self-assessment** of the frontend code using your favorite LLM. Each member is expected to write a self-assessment about the code he/she contributed. Use [the following template](./template.md) to guide your reflection.
  
 
 ---

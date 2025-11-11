@@ -1,101 +1,61 @@
-# Self-Assessment (Template)
+# Self-Assessment Template
 
-### Example 1: Improving Code Quality
-
-Initially, our `filterJobsBySalary` endpoint was functional but lacked robustness to handle edge cases. Here's the original implementation:  
-
-```javascript
-// Filter jobs by salary range
-filterJobsBySalary = async (req, res) => {
-  try {
-    const jobs = await Job.find({
-      salary: { $gte: req.query.min, $lte: req.query.max },
-    });
-    res.status(200).json(jobs);
-  } catch (error) {
-    res.status(500).json({ message: error.message });
-  }
-};
-```
- 
-The endpoint worked for requests like:  
-`GET http://localhost:4000/api/jobs/salary?min=5000&max=6000`  
-
-However, it failed when:
-1. `min` was non-numeric (e.g., `abc`).  
-2. `max` was missing from the query.  
-
-To address these issues, we refactored the code to handle edge cases effectively:  
-
-```javascript
-// Optimized filterJobsBySalary
-filterJobsBySalary = async (req, res) => {
-  const minSalary = Number(req.query.min) || 0;
-  const maxSalary = Number(req.query.max) || Infinity;
-
-  try {
-    const jobs = await Job.find({
-      salary: { $gte: minSalary, $lte: maxSalary },
-    });
-    res.status(200).json(jobs);
-  } catch (error) {
-    res.status(500).json({ message: error.message });
-  }
-};
-```
-
-### Key Improvements:
-- **Default Handling:** Used `Number()` with default values (`0` for `minSalary`, `Infinity` for `maxSalary`) to handle missing or invalid inputs.
-- **Resilience:** Ensured the endpoint works for various scenarios, making it more user-friendly and robust.
+Each member is expected to write a self-assessment about the code he/she contributed. Use the following template to guide your reflection.
 
 ---
 
-### Example 2: Debugging Route Order in Express
+## Self-Assessment  
 
-We encountered an issue with routing in our `jobRoutes.js` file. Here's the problematic setup:  
+- **Member name:** *write your name here*  
+- **Contribution area:** *briefly describe what part of the project you worked on (e.g., frontend component, backend route, database schema, etc.)*
 
-```javascript
-// Problematic route order
-router.get('/:id', getJobById);
-router.get('/salary', filterJobsBySalary);
-```
+---
 
-Requests to `/api/jobs/salary` returned "Invalid ID" errors because Express evaluated the dynamic `/:id` route before `/salary`. This happened because Express matches routes in the order they are defined.  
+### 1. Functionality
+- **Does the code meet the requirements?**
+  - [ ] Does it implement all specified features you were responsible for?  
+  - [ ] Are edge cases handled (e.g., invalid data, duplicates)?  
+  - [ ] Are there any bugs or unexpected behaviors?  
 
-### Solution:
-We reordered the routes to prioritize specific routes before dynamic ones:  
+- **Integration**
+  - [ ] Does your code work correctly with other parts of the application?  
+  - [ ] Are inputs and outputs managed appropriately?  
 
-```javascript
-// Corrected route order
-router.get('/salary', filterJobsBySalary); // Specific route comes first
-router.get('/:id', getJobById); // Dynamic route follows
-router.get('/', getAllJobs);
-router.get('/location/:location', getJobsByLocation);
-```
+---
 
-**Lessons Learned:**
+### 2. Code Quality
+- **Readability**
+  - [ ] Is your code easy to understand for other developers?  
+  - [ ] Are variable and function names descriptive and meaningful?  
 
-1. **Route Evaluation in Express:** Routes are matched sequentially. Specific routes (e.g., `/salary`) must be defined before dynamic ones (e.g., `/:id`).  
-2. **Testing Matters:** Thorough testing revealed this subtle issue, which could have led to unpredictable behavior in production.  
+- **Reusability**
+  - [ ] Can your code or parts of it be reused elsewhere in the application?  
+  - [ ] Is logic modular and separated from unrelated concerns?  
 
+- **Comments and Documentation**
+  - [ ] Are there comments explaining complex logic?  
+  - [ ] Is there documentation for how to use your code unit?  
 
+---
 
-```js
-// File name or function
-// Your code part A
-```
+### 3. Performance
+- **Efficiency**
+  - [ ] Are there any unnecessary operations or performance bottlenecks?  
+  - [ ] Is the code optimized for larger datasets or high traffic (if applicable)?  
 
-```js
-// File name or function
-// Your code part B
-```
+---
 
-```js
-// File name or function
-// Your code part A
-```
+### 4. Overall Assessment
+- **Strengths**  
+  - List the strengths of your contribution.  
 
-```js
-// File name or function
-// Your code part B
-```
+- **Areas for Improvement**  
+  - List areas where your code could be improved.  
+
+- **Action Plan**  
+  - Outline specific steps to address the areas for improvement.  
+
+---
+
+### 5. Additional Notes
+- Add any other relevant observations or feedback about your contribution.  
