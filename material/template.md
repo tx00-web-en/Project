@@ -1,10 +1,4 @@
-# Self-Assessment Template
-
-Each member is expected to write a self-assessment about the code he/she contributed. Use the following template to guide your reflection.
-
----
-
-## Self-Assessment  
+# Self-Assessment  
 
 - **Member name:** *write your name here*  
 - **Contribution area:** *briefly describe what part of the project you worked on (e.g., frontend component, backend route, database schema, etc.)*
