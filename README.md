@@ -32,3 +32,4 @@
 - Six Reflection Journal:s (12 %)
 - Feedback: (7 %)
 - Exam (20%)
+
