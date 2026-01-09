@@ -5,7 +5,7 @@
 
 
 ----
-
+ 
 ### About the Project
 
 This project is inspired by the [Body Mass Index (BMI) Calculator challenge](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T) from Frontend Mentor. The original challenge provides a clean, responsive design for calculating BMI based on user input. You will adapt this layout and extend it into a **comprehensive fitness tracking application** with workout routines, progress tracking, and goal‑setting features.  

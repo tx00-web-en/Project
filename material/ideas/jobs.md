@@ -8,7 +8,7 @@
 This project is based on the [Job Listings with Filtering challenge](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt) and can be extended with ideas from the more advanced [DevJobs Web App challenge](https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l).  
 
 The original challenge provides a job board design where users can view job postings and filter them by categories such as role, level, languages, and tools. You will adapt this layout and extend it into a **full‑stack MERN application** with persistent data, user accounts, and AI‑powered enhancements.
-
+ 
 ---
 
 ### Business Goals

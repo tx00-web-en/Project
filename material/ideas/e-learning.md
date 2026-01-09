@@ -4,7 +4,7 @@
 > Note: The following project is provided as a suggested starting point. Your group may choose to use it as‑is, adapt and extend it, or take inspiration from it to create something entirely new. It is meant to support your brainstorming process, not to limit your creativity.
 
 ### About the Project
-
+ 
 This project is based on the [Skilled E‑Learning Landing Page challenge](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q) from Frontend Mentor. The original challenge provides a professional landing page design for a fictional online learning platform. It includes a hero section, course highlights, and a call‑to‑action area. You will adapt this layout and extend it into a **full‑stack MERN application** that supports dynamic course content, user accounts, and AI‑powered features.
 
 ---

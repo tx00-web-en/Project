@@ -1,4 +1,4 @@
-# Sprint 1: Deadline 2025-11-07
+# Sprint 1: Deadline 2026-01-30
 
 
 - [Deliverables](#deliverables)

@@ -4,7 +4,7 @@
 - **Contribution area:** *briefly describe what part of the project you worked on (e.g., frontend component, backend route, database schema, etc.)*
 
 ---
-
+ 
 ### 1. Functionality
 - **Does the code meet the requirements?**
   - [ ] Does it implement all specified features you were responsible for?  

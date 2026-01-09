@@ -8,7 +8,7 @@
 This project is based on the [URL Shortening API Landing Page challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G) from Frontend Mentor. The original challenge provides a professional landing page design where users can shorten links using an external API and manage them in the browser. You will adapt this layout and extend it into a **full‑stack MERN application** with persistent storage, user accounts, and AI‑powered enhancements.
 
 For reference only, you may also look at [Brad Traversy’s Tailwind solution](https://github.com/bradtraversy/tailwind-course-projects/tree/main/website-projects/shortly).
-
+ 
 ---
 
 ### Business Goals

@@ -1,5 +1,6 @@
-# Sprint 3: Deadline 2025-12-10
+# Sprint 3: Deadline 2026-03-11
 
+<!-- 
 
 - [Before Starting This Sprint](#before-starting-this-sprint)
 - [Deliverables](#deliverables)
@@ -157,7 +158,9 @@ Your performance for Sprint 3 will be evaluated as follows:
 - [Scrum Metrics 101 | Atlassian](https://www.atlassian.com/agile/scrum/scrum-metrics) 
 - [11 Scrum Metrics and Their Value to Scrum Teams - Sealights](https://www.sealights.io/software-development-metrics/11-scrum-metrics-and-their-value-to-scrum-teams/)
 - [The Essentials of Scrum Metrics: A Comprehensive Guide](https://deeprojectmanager.com/scrum-metrics/)
-- [Excel templates to help you manage and visualize scrum metrics](https://academy.agiledigest.com/template/scrum-metrics-excel-template/)
+- [Excel templates to help you manage and visualize scrum metrics](https://academy.agiledigest.com/template/scrum-metrics-excel-template/) 
+
+-->
 
 
 

@@ -2,7 +2,7 @@
 
 > [!NOTE]  
 > Note: The following project is provided as a suggested starting point. Your group may choose to use it as‑is, adapt and extend it, or take inspiration from it to create something entirely new. It is meant to support your brainstorming process, not to limit your creativity.
-
+ 
 
 ### About the Project
 

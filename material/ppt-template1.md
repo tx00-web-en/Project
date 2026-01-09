@@ -8,7 +8,7 @@
    - **Team Members**: _[List all member names here]_
    - **Target Users & Stakeholders**: _[Brief description of primary users and stakeholders]_
    - **Main Functionality**: _[Brief summary of key features and purpose]_
-
+  
 ---
 
 ## 2. Prototype (3 minutes)

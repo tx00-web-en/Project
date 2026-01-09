@@ -9,7 +9,7 @@
 - Date of presentation
 
 ---
-
+  
 ### **Slide 2 – Sprint 1 Recap**
 - Briefly show the **prototype** from Sprint 1  
 - Highlight the original goals and vision

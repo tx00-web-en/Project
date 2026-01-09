@@ -2,7 +2,7 @@
 
 > [!NOTE]  
 > Note: The following project is provided as a suggested starting point. Your group may choose to use it as‑is, adapt and extend it, or take inspiration from it to create something entirely new. It is meant to support your brainstorming process, not to limit your creativity.
-
+ 
 ### About the Project
 
 This project is based on the [Bookmark Landing Page challenge](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158) from Frontend Mentor. The original challenge provides a professional landing page design for a fictional bookmarking service. It includes interactive elements such as tabbed features, an FAQ accordion, and a newsletter signup form. You will adapt this layout and extend it into a **full‑stack MERN application** with persistent data, user accounts, and AI‑powered enhancements.

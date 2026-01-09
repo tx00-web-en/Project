@@ -6,7 +6,7 @@
 ### About Fylo
 
 Fylo is a **cloud‑based storage and collaboration company**. It provides individuals and small businesses with secure online storage, easy file sharing, and real‑time collaboration tools. The mission of Fylo is to make it simple for users to store, organize, and access their files from anywhere, while also offering intelligent features that improve productivity.
-
+ 
 ---
 
 ### Business Goals

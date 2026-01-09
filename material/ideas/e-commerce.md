@@ -5,7 +5,7 @@
 > Note: The following project is provided as a suggested starting point. Your group may choose to use it as‑is, adapt and extend it, or take inspiration from it to create something entirely new. It is meant to support your brainstorming process, not to limit your creativity.
 
 ### About the Project
-
+ 
 This project is based on the [E‑commerce Product Page challenge](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) from Frontend Mentor. The original challenge provides a professional product page design with features such as a product gallery, cart functionality, and responsive layouts. You will adapt this layout and extend it into a **full‑stack MERN e‑commerce platform** with a complete shopping experience and an **admin dashboard** for managing products, users, and orders.
 
 ---

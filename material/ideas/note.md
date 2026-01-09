@@ -8,7 +8,7 @@
 The Note‑taking Web App is a **digital productivity tool** designed to help users create, organize, and manage their notes efficiently. It supports features such as creating, editing, deleting, and archiving notes, as well as searching and tagging. The design also includes customization options like **color themes** and **font themes**, making it both functional and user‑friendly.  
 
 This project is based on a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/note-taking-web-app-773r7bUfOG), which provides a professional layout you can adapt and extend into a full‑stack MERN application.
-
+ 
 ---
 
 ### Business Goals
