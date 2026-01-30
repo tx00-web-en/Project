@@ -1,7 +1,7 @@
  # Sprint 2: Deadline: 2026-02-13
 
 
-<!-- 
+
 - [Deliverables](#deliverables)
 - [Considerations](#considerations)
 - [Assessment Criteria](#assessment-criteria-for-sprint-2-total-100-points)
@@ -149,7 +149,7 @@ Your group's performance for Sprint 2 will be evaluated based on the following c
 - [Scrum Metrics 101 | Atlassian](https://www.atlassian.com/agile/scrum/scrum-metrics)
 - [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
 
--->
+
 
 
 <!-- - For Sprint 3 (**not sprint 2**), the use of Scrum metrics will be part of the assessment criteria. Please refer to the links provided for more information. -->
