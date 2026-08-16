@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/tx00-web-en/Project" alt="Repo QR Code" width="200" height="200" />
+  <!-- <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/tx00-web-en/Project" alt="Repo QR Code" width="200" height="200" /> -->
+  <img src="./material/img/qr-web-project.png" alt="Repo QR Code" width="200" height="200" />  
   <br>
   <b>Scan with your phone to open the repo</b><br>
   <!-- <b>https://github.com/tx00-web-en</b> -->
