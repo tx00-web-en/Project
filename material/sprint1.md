@@ -3,7 +3,7 @@
 **Duration:** 2 weeks
 **Deadline:** 2026-09-03
 
-## Sprint Goal
+### Sprint Goal
 
 The goal of Sprint 1 is to transform your initial idea into a clear product concept and create a **low-fidelity prototype of the core user experience**.
 
@@ -15,7 +15,7 @@ The three Sprints are connected:
 * **Sprint 2:** Transform the prototype into a React-based user interface, without application logic. Add backend services.
 * **Sprint 3:** Integrate the application and Add functionalities
 
-Your Sprint 1 prototype will therefore become an important reference for Sprint 2.
+> Your Sprint 1 prototype will therefore become an important reference for Sprint 2.
 
 ---
 # Context and Scope
