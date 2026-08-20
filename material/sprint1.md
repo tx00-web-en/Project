@@ -16,6 +16,63 @@ The three Sprints are connected:
 * **Sprint 3:** Integrate the application and Add functionalities
 
 Your Sprint 1 prototype will therefore become an important reference for Sprint 2.
+---
+# Context and Scope
+
+### Important: What is Sprint 1 about?
+
+This course consists of **three Sprints**, and the focus of each Sprint is different.
+
+**Sprint 1 is a prototyping and product-discovery Sprint.**
+
+At this stage, you are not yet expected to know React, the MERN stack, or all of the technologies required to build the final application. Therefore, Sprint 1 is **not about implementing the application**.
+
+The main purpose of Sprint 1 is to:
+
+* understand the problem you want to solve;
+* identify your target users;
+* define the core user experience;
+* create and validate a low-fidelity prototype;
+* receive feedback from the client/Product Owner;
+* establish your Scrum team and way of working;
+* prepare yourselves technically for the next Sprints.
+
+In later Sprints, the prototype will become the basis for implementation:
+
+**Sprint 1 → Prototype and validation**
+**Sprint 2 → React UI, backend**
+**Sprint 3 → Application functionality, backend, AI, and integration**
+
+### What does the Sprint 1 backlog look like?
+
+Because Sprint 1 focuses on prototyping rather than implementation, you may have only a small number of traditional product user stories.
+
+For example, two central stories might be:
+
+**1. Client/user prototype**
+
+As a client/user, I need a prototype of the core experience, so that I can evaluate the proposed solution and provide feedback.
+
+**2. Client/Product Owner review**
+
+As a client/Product Owner, I need to review the prototype and provide feedback, so that the team can validate and improve the product concept.
+
+These stories can be supported by technical, learning, and preparation tasks such as:
+
+* learning Figma or another prototyping tool;
+* learning CSS and responsive design;
+* learning Tailwind CSS;
+* exploring React and the technologies that will be needed in Sprint 2;
+* learning Git/GitHub;
+* exploring AI development tools such as Codex CLI or Gemini CLI;
+* investigating technologies that the team may need in later Sprints;
+* preparing the project repository and development environment.
+
+**These learning and technical activities are part of the work needed to achieve the Sprint Goal.**
+
+Do not feel that you need to invent a large number of artificial user stories simply to make the backlog look bigger. The backlog should reflect the **actual work and learning required during Sprint 1**.
+
+The Product Backlog will evolve substantially as you learn more about the product and the technology. The backlog you create in Sprint 1 is therefore an **initial and evolving Product Backlog**, not a complete specification of the final application.
 
 ---
 
@@ -86,13 +143,9 @@ Identify which skills your team will need for the next stage of the project.
 For example:
 
 * Figma / prototyping
-* HTML/CSS
-* Tailwind CSS
-* React
-* Git/GitHub
-* Backend technologies
-* Database
 * AI/API integration
+* CSS/Tailwind CSS
+* DevOps, Git/GitHub
 
 Team members may take the lead in learning different areas.
 
@@ -118,7 +171,7 @@ Create an initial Product Backlog containing the user stories you believe your p
 
 Your Product Backlog should be managed using a tool such as [Trello](https://trello.com/).
 
-You may also use another appropriate tool if your team has a good reason to do so.
+You may also use another appropriate tool if your team has a good reason to do so, e.g such as familiarity with [jira](https://www.atlassian.com/software/jira).
 
 Consider:
 
@@ -190,7 +243,7 @@ Create a **low-fidelity prototype** demonstrating the core user journey represen
 
 [Figma](https://www.figma.com/) is strongly encouraged because it is well suited for collaborative prototyping.
 
-Resources and guidance will be provided if needed.
+Resources will be provided.
 
 However, **Figma is not mandatory**.
 
@@ -201,7 +254,6 @@ The important requirement is not the tool. The prototype should clearly communic
 * the main screens;
 * the user flow;
 * navigation between screens;
-* the functionality represented by your Sprint 1 user stories.
 
 ### Focus on functionality, not visual polish
 
@@ -342,7 +394,7 @@ AI can be used to:
 * suggest missing functionality;
 * help organize a Product Backlog;
 * challenge your prioritization;
-* help learn Figma, CSS, Tailwind, React, or other technologies;
+* help learn Figma, CSS, Tailwind, or other technologies;
 * generate questions for your Sprint Review;
 * help reflect on your retrospective.
 
@@ -508,18 +560,6 @@ This is why Sprint 1 should focus on creating a clear and useful prototype rathe
 
 ---
 
-### Links 
-
-- [Low-fidelity](https://www.invisionapp.com/inside-design/low-fi-vs-hi-fi-prototyping)
-- [Figma](https://www.figma.com/)  
-- [Draw.io](https://app.diagrams.net/) 
-- [Trello](https://trello.com/)  
-- [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
-[Retrospective templates](https://agilebox.app/blog/4ls-retrospective/)
-
-
----
-
 ### Project Ideas
 
 > **If you don’t already have a project idea**, you can consider one of the following MERN fullstack + AI‑powered applications.  
@@ -536,6 +576,16 @@ This is why Sprint 1 should focus on creating a clear and useful prototype rathe
 - [Additional Brainstorming Ideas](./ideas/other.md)
 
 
+---
+
+### Links 
+
+- [Low-fidelity](https://www.invisionapp.com/inside-design/low-fi-vs-hi-fi-prototyping)
+- [Figma](https://www.figma.com/)  
+- [Draw.io](https://app.diagrams.net/) 
+- [Trello](https://trello.com/)  
+- [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
+[Retrospective templates](https://agilebox.app/blog/4ls-retrospective/)
 
 
 <!-- 
