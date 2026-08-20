@@ -15,7 +15,7 @@
 - **Coding Marathon 2**: 2026-09-24
 - **Coding Marathon 3**: 2026-10-01
 - [Sprint 3](./material/sprint3.md), DL: 2026-10-07
-- **Course Feedback**, DL: 22026-10-07
+- **Course Feedback**, DL: 2026-10-07
 - **Exam**: 2026-10-08
 
 ---
