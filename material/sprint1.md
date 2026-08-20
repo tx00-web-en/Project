@@ -16,6 +16,7 @@ The three Sprints are connected:
 * **Sprint 3:** Integrate the application and Add functionalities
 
 Your Sprint 1 prototype will therefore become an important reference for Sprint 2.
+
 ---
 # Context and Scope
 
