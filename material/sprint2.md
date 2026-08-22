@@ -1,6 +1,17 @@
  <!-- # Sprint 2: Deadline: 2026-09-17
 
 
+### Two Important Things NOT to Do
+
+Please pay particular attention to the following:
+
+1. **Do not deliver more than what is requested for Sprint 2.**
+   For example, do not implement functionality that belongs to Sprint 3, such as authentication, connecting the backend to the frontend, or other features that are not part of the Sprint 2 requirements.
+
+2. **Do not introduce technologies that have not been covered in the course without full group agreement.**
+   If your group wants to use a technology or tool that has not been covered in the course, **all group members must agree to its use before it is introduced into the project.**
+
+----------
 
 - [Deliverables](#deliverables)
 - [Considerations](#considerations)

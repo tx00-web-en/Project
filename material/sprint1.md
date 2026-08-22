@@ -11,9 +11,9 @@ During this Sprint, your team will also establish how you will work together as 
 
 The three Sprints are connected:
 
-* **Sprint 1:** Define the product and create a prototype.
-* **Sprint 2:** Transform the prototype into a React-based user interface, without application logic. Add backend services.
-* **Sprint 3:** Integrate the application and Add functionalities
+- **Sprint 1:** Define the product and create a prototype.
+- **Sprint 2:** Transform the prototype into a React-based user interface, without application logic. Add backend services.
+- **Sprint 3:** Integrate the application and Add functionalities
 
 > Your Sprint 1 prototype will therefore become an important reference for Sprint 2.
 
