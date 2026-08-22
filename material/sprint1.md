@@ -40,9 +40,9 @@ The main purpose of Sprint 1 is to:
 
 In later Sprints, the prototype will become the basis for implementation:
 
-**Sprint 1 → Prototype and validation**
-**Sprint 2 → React UI, backend**
-**Sprint 3 → Application functionality, backend, AI, and integration**
+* **Sprint 1 → Prototype and validation**
+* **Sprint 2 → React UI, backend**
+* **Sprint 3 → Application functionality, backend, AI, and integration**
 
 ### What does the Sprint 1 backlog look like?
 
