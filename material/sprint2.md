@@ -17,7 +17,7 @@ During this sprint:
   * Authentication will **not** be implemented during this sprint.
   * AI is **optional**. Groups that choose to include AI will develop the relevant backend functionality when it is covered in class.
 
-> **Important:** This document is an overview of Sprint 2, not the complete Sprint 2 specification**. More detailed instructions, examples, common requirements, and guidance will be provided during the autonomous sessions.
+> **Important:** This document is an overview of Sprint 2, not the complete Sprint 2 specification. More detailed instructions, examples, common requirements, and guidance will be provided during the autonomous sessions.
 
 ---
 
@@ -234,59 +234,9 @@ You should critically evaluate the feedback and identify improvements that can m
 
 Sprint 2 is intentionally divided into **two parallel development tracks**.
 
-### Frontend
-
-The frontend team develops the React application independently.
-
-```text
-React
-  ↓
-Components
-  ↓
-Pages
-  ↓
-Routing
-  ↓
-Forms
-  ↓
-Mock/Static Data
-```
-
-### Backend
-
-The backend team develops the server independently.
-
-```text
-Express
-  ↓
-Routes
-  ↓
-Controllers
-  ↓
-Models / Data
-  ↓
-Mock/Array Data
-  ↓
-MongoDB/Mongoose
-```
-
-### Frontend ↔ Backend
-
-The teams **define the interface**, but do not connect the two systems.
-
-```text
-Frontend                  Backend
-   │                         │
-   │                         │
-   │   Agreed API Interface  │
-   │─────────────────────────│
-   │                         │
-   X      NO CONNECTION      X
-```
-
-The actual connection between the frontend and backend will take place in **Sprint 3**.
-
-Integration activities will also take place during the Coding Marathons and the full-stack activities in weeks 7 and 8.
+- The frontend team develops the React application independently.
+- The backend team develops the server independently.
+- The teams **define the interface**, but do not connect the two systems. The actual connection between the frontend and backend will take place in **Sprint 3**.
 
 ---
 
@@ -421,8 +371,6 @@ Assessment will consider factors such as:
 * appropriate use of concepts taught in class;
 * alignment with the Sprint 1 prototype.
 
----
-
 ## 2. Adherence to Scrum Process — 25 Points
 
 How effectively your team followed the Scrum framework during the sprint.
@@ -435,8 +383,6 @@ This includes:
 * ability to communicate progress and blockers;
 * collaboration and adaptation during the sprint.
 
----
-
 ## 3. Group Presentation — 25 Points
 
 The quality of the **10–12-minute group presentation**.
@@ -448,8 +394,6 @@ Assessment will consider:
 * demonstration of progress;
 * explanation of next steps;
 * team collaboration and participation.
-
----
 
 ## 4. Alignment with Sprint 1 Prototype — Mandatory
 
