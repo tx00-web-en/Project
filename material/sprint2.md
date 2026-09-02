@@ -165,7 +165,7 @@ Reflect on your sprint using the **4Ls format**:
 
 Consider both factual and emotional aspects of your experience.
 
-More information about 4Ls is available [here](https://www.atlassian.com/team-playbook/plays/4-ls-retrospective-technique).
+More information about 4Ls method is available [here](https://www.teamoclock.com/blog/a-simple-guide-to-the-4-ls-retrospective-method).
 
 More information about Scrum is available [here](https://www.scrum.org/learning-series/what-is-scrum/).
 
