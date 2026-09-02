@@ -6,6 +6,7 @@
 - [Assessment Criteria](#assessment-criteria-total-150-points--bonus)
 
 ---
+- For Sprint 3 (**not sprint 2**), the use of Scrum metrics will be part of the assessment criteria. Please refer to the links provided for more information.
 
 # Before Starting This Sprint
 
