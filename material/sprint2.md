@@ -4,7 +4,7 @@
 
 ## Sprint 2 Goal
 
-The goal of Sprint 2 is to develop the **frontend and backend of your application independently** and prepare them for integration in Sprint 3.
+The goal of Sprint 2 is to develop the **frontend and backend of your application independently**.
 
 During this sprint:
 
@@ -12,11 +12,12 @@ During this sprint:
 * The **backend team** will develop the server-side application following the MVC structure introduced in class.
 * The frontend and backend teams will **agree on the interface between them**, including the API endpoints and the JSON data structures that will be used when the application is connected.
 * The frontend and backend **will not be connected during Sprint 2**.
-* The backend will initially use mock/array data and will later be refactored to use MongoDB/Mongoose when these technologies are introduced.
-* Authentication will **not** be implemented during this sprint.
-* AI is **optional**. Groups that choose to include AI will develop the relevant backend functionality when it is covered in class.
+* The backend will initially use mock/array data and will later be refactored to use MongoDB/Mongoose.
+* Note:
+  * Authentication will **not** be implemented during this sprint.
+  * AI is **optional**. Groups that choose to include AI will develop the relevant backend functionality when it is covered in class.
 
-> **Important:** This document is a **student-facing overview of Sprint 2, not the complete Sprint 2 specification**. More detailed instructions, examples, common requirements, and guidance will be provided during the two class meetings dedicated to Sprint 2.
+> **Important:** This document is an overview of Sprint 2, not the complete Sprint 2 specification**. More detailed instructions, examples, common requirements, and guidance will be provided during the autonomous sessions.
 
 ---
 
@@ -28,16 +29,16 @@ Please pay particular attention to the following:
 
 Do not implement functionality that belongs to Sprint 3.
 
-For example, **do not**:
+For example:
 
-* connect the frontend to the backend;
-* implement real authentication;
-* implement JWT, sessions, or password authentication;
-* implement Swagger/OpenAPI documentation;
-* implement Supertest/API automated testing;
-* implement other Sprint 3 functionality before it is requested.
+* **do not** connect the frontend to the backend;
+* **do not** implement real authentication;
+* **do not** implement JWT, sessions, or password authentication;
+* **do not** implement API documentation;
+* **do not** implement API automated testing;
+* **do not** implement other Sprint 3 functionality before it is requested.
 
-The purpose of Sprint 2 is to build the frontend and backend **independently** and prepare them for integration later.
+The purpose of Sprint 2 is to build the frontend and backend **independently**.
 
 ### 2. Do not introduce technologies that have not been covered in the course without full group agreement.
 
@@ -72,7 +73,7 @@ The frontend should provide a functional representation of the application, even
 
 Submit all code related to the backend development of your application.
 
-The backend should follow the MVC concepts introduced in class and should include the appropriate:
+The backend should follow the MVC concepts and should include the appropriate:
 
 * server setup;
 * models/data structures;
@@ -81,14 +82,14 @@ The backend should follow the MVC concepts introduced in class and should includ
 * middleware;
 * CRUD functionality;
 * mock/array data;
-* MongoDB/Mongoose implementation when covered in class;
+* MongoDB/Mongoose implementation (after week 4);
 * error handling and other concepts covered during the sprint.
 
 ### Data persistence
 
 During the first part of the sprint, you will work with mock/array data.
 
-After MongoDB and Mongoose are introduced in class next week, you will **refactor the data model/persistence layer** to use MongoDB/Mongoose.
+After MongoDB and Mongoose are introduced in class next week, you will **refactor the data model** to use MongoDB/Mongoose.
 
 The goal is to make this transition with as little modification as possible to the rest of your backend application.
 
@@ -164,7 +165,7 @@ Reflect on your sprint using the **4Ls format**:
 
 Consider both factual and emotional aspects of your experience.
 
-More information about the 4Ls format is available [here](https://www.teamretro.com/retrospectives/).
+More information about 4Ls is available [here](https://www.atlassian.com/team-playbook/plays/4-ls-retrospective-technique).
 
 More information about Scrum is available [here](https://www.scrum.org/learning-series/what-is-scrum/).
 
@@ -172,7 +173,7 @@ More information about Scrum is available [here](https://www.scrum.org/learning-
 
 ## 5. Team Contributions
 
-Clearly document the contribution of **each team member** during Sprint 2.
+Document the contribution of **each team member** during Sprint 2.
 
 Your documentation should make it possible to understand:
 
@@ -181,7 +182,7 @@ Your documentation should make it possible to understand:
 * how they collaborated with other team members;
 * any important responsibilities they took during the sprint.
 
-Evidence may include commit history, pull requests, task boards, sprint activities, and other relevant project evidence.
+Evidence may include commit history, pull requests, and other relevant project evidence.
 
 ---
 
@@ -191,8 +192,8 @@ Your group will give a **10–12-minute presentation**.
 
 The presentation should:
 
-1. Begin by briefly showcasing the prototype developed during Sprint 1.
-2. Explain what has been implemented during Sprint 2.
+1. Explain what has been implemented during Sprint 2.
+2. Showcase the prototype developed during Sprint 1.
 3. Demonstrate the progress of both the frontend and backend.
 4. Explain how the frontend and backend teams have defined their interface.
 5. Explain what remains to be completed in Sprint 3.
@@ -319,7 +320,7 @@ Begin developing:
 
 If your application is based on an existing HTML template, convert the HTML into React components following the approach demonstrated in class.
 
-You may use vanilla CSS or CSS libraries covered/allowed in the course.
+<!-- You may use vanilla CSS or CSS libraries covered/allowed in the course. -->
 
 ### Backend
 
@@ -382,12 +383,13 @@ After MongoDB/Mongoose is introduced in class:
 
 * refactor the existing data model/persistence approach;
 * replace the appropriate array/mock-data operations with MongoDB/Mongoose;
-* keep the rest of the application structure as stable as possible;
 * continue testing your endpoints with Postman.
+
+<!-- * keep the rest of the application structure as stable as possible; -->
 
 ### AI
 
-AI is **optional**.
+<!-- AI is **optional**. -->
 
 If AI is a feature of your application, you will receive guidance on implementing the AI functionality when it is covered in class.
 
@@ -460,7 +462,7 @@ This includes both:
 
 Alignment with the Sprint 1 prototype is a **mandatory requirement** and is considered as part of the assessment of the Sprint 2 artifacts.
 
-If your application has changed significantly from the original prototype, the change should be explained and justified.
+<!-- If your application has changed significantly from the original prototype, the change should be explained and justified. -->
 
 ---
 
@@ -480,11 +482,9 @@ A successful Sprint 2 is **not** the one that implements the most features. It i
 
 ### Submission
 
-All deliverables must be submitted by:
+All deliverables must be submitted by: **September 17, 2026**
 
-**September 17, 2026**
-
-Late submissions will incur penalties according to the course policy.
+<!-- Late submissions will incur penalties according to the course policy. -->
 
 
 ---
@@ -509,7 +509,7 @@ Late submissions will incur penalties according to the course policy.
 - [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
 
 
-
+<!-- 
 ---
 
 # Sprint 2 at a Glance
@@ -529,7 +529,8 @@ Late submissions will incur penalties according to the course policy.
 | AI Backend Functionality      | If applicable and covered |
 | Scrum Ceremonies              |                           |
 | LLM Code Self-Assessment      |                           |
-| Presentation                  |                           |
+| Presentation                  |                           | 
+-->
 
 <!-- - For Sprint 3 (**not sprint 2**), the use of Scrum metrics will be part of the assessment criteria. Please refer to the links provided for more information. -->
 
