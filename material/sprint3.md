@@ -1,4 +1,4 @@
-<!-- # Sprint 3: Deadline 2026-10-07
+# Sprint 3: Deadline 2026-10-07
 
 - [Before Starting This Sprint](#before-starting-this-sprint)
 - [Deliverables](#deliverables)
@@ -6,7 +6,7 @@
 - [Assessment Criteria](#assessment-criteria-total-150-points--bonus)
 
 ---
-- For Sprint 3 (**not sprint 2**), the use of Scrum metrics will be part of the assessment criteria. Please refer to the links provided for more information.
+
 
 # Before Starting This Sprint
 
@@ -19,6 +19,8 @@ After completing two sprints, it’s essential to review key team metrics to opt
 5. **Sprint Satisfaction**: Conduct a brief team survey or discussion to gauge overall satisfaction with the previous sprints. Use this feedback to improve team dynamics, communication, and productivity.
 
 > *Note*: Additional metrics such as cycle time, defect rate, and lead time can provide further insights, but they are *out of the scope* of this sprint. You can explore them at [links](#links) for more information.
+
+> The use of Scrum metrics will be part of the assessment criteria. 
 
 ---
 
@@ -83,6 +85,10 @@ By the end of this week, you should have user authentication fully integrated in
 
 - **Back-End Testing**:
   - Conduct comprehensive integration testing for the back-end, ensuring API endpoints function correctly. Aim for high testing coverage to maintain code quality and prevent future issues.
+  - API documentation
+ - **Front-End**:
+  - Introduce `useContext()` for prop drilling avoidance, enhancing your app’s management.  
+  - `useReducer()` for managing complex state logic  
 - **Deployment**:
   - Deploy both the front-end and back-end components. 
 
@@ -155,29 +161,6 @@ Your performance for Sprint 3 will be evaluated as follows:
 ## Links
 
 - [Scrum Metrics 101 | Atlassian](https://www.atlassian.com/agile/scrum/scrum-metrics) 
-- [11 Scrum Metrics and Their Value to Scrum Teams - Sealights](https://www.sealights.io/software-development-metrics/11-scrum-metrics-and-their-value-to-scrum-teams/)
+- [11 Scrum Metrics and Their Value to Scrum Teams - Sealights](https://itphobia.com/11-scrum-metrics-and-their-value-to-scrum-teams/)
 - [The Essentials of Scrum Metrics: A Comprehensive Guide](https://deeprojectmanager.com/scrum-metrics/)
-- [Excel templates to help you manage and visualize scrum metrics](https://academy.agiledigest.com/template/scrum-metrics-excel-template/) 
-
- -->
-
-
-<!-- - API documentation. -->
-<!--
-- **Alignment with Sustainable Development Goals**:
-  - Evaluate how your project aligns with the [Sustainable Development Goals at Metropolia University](https://www.metropolia.fi/kestavakehitys/en/Home). Consider aspects like accessibility, sustainability, and societal impact.
-
- -  Scrum Metrics – Excel Template - Agile Digest. https://agiledigest.com/scrum-metrics-excel-template/ 
-
-
-
- - **Front-End**:
-  - Introduce `useContext()` for prop drilling avoidance, enhancing your app’s management.  
-  - `useReducer()` for managing complex state logic 
- 
- ---
-
-
-> **When a group is making a sprint presentation, members from two other groups will be required to ask questions to the presenting group.**
-
--->
+- [Agile Scrum Sprint Metrics Template](https://github.com/eric-spink-agile/agile-scrum-sprint-metrics-template) 
