@@ -109,7 +109,7 @@ Use the results to identify improvements for Sprint 3.
 
 # Scrum Metrics
 
-Scrum metrics can help your team inspect progress, identify problems, and improve planning. They should be used as information for the team—not as a way to judge individual team members.
+Scrum metrics can help your team inspect progress, identify problems, and improve planning. They should be used as information for the team, not as a way to judge individual team members.
 
 The following metrics may be discussed during the sprint:
 
@@ -369,62 +369,62 @@ During the beginning of Week 8, focus on:
 
 Your Sprint 3 performance will be evaluated according to the following criteria.
 
-## 1. Artifacts — 90 Points
+## 1. Artifacts: 90 Points
 
 This category evaluates the quality and completeness of the frontend and backend code.
 
-### Frontend Code — 45 Points
+### Frontend Code: 45 Points
 
 * Frontend self-assessment: **15 points**
 * Functionality and UI responsiveness: **30 points**
 
-### Backend Code — 45 Points
+### Backend Code: 45 Points
 
 * Backend self-assessment: **15 points**
 * Testing and functionality: **30 points**
 
-## 2. Adherence to Scrum Process — 30 Points
+## 2. Adherence to Scrum Process: 30 Points
 
 This category evaluates participation in Scrum ceremonies and the use of Scrum practices.
 
-### Daily Scrums — 10 Points
+### Daily Scrums: 10 Points
 
 * Consistent participation
 * Clear communication
 * Reporting progress
 * Identifying blockers
 
-### Sprint Review — 10 Points
+### Sprint Review: 10 Points
 
 * Clear presentation of accomplishments
 * Demonstration of functionality
 * Explanation of progress
 
-### Sprint Retrospective Insights — 10 Points
+### Sprint Retrospective Insights: 10 Points
 
 * Reflective analysis
 * Use of relevant Scrum metrics
 * Identification of actionable improvements
 * Reflection on team satisfaction and collaboration
 
-## 3. Group Presentation — 30 Points
+## 3. Group Presentation: 30 Points
 
 The presentation should take approximately 10–12 minutes.
 
-### Clarity and Structure — 10 Points
+### Clarity and Structure: 10 Points
 
 * Clear explanation
 * Logical flow
 * Effective communication
 
-### Coverage of Sprint Outcomes — 10 Points
+### Coverage of Sprint Outcomes: 10 Points
 
 * Explanation of progress
 * Coverage of Sprint 3 objectives
 * Demonstration of functionality
 * Discussion of challenges and solutions
 
-### Team Collaboration — 10 Points
+### Team Collaboration: 10 Points
 
 * Evidence of team coordination
 * Meaningful participation
@@ -555,7 +555,7 @@ As new technical instructions are provided, update:
 # Links
 
 * [Scrum.org: What Is Scrum?](https://www.scrum.org/learning-series/what-is-scrum/)
-* [Scrum Metrics 101 — Atlassian](https://www.atlassian.com/agile/scrum/scrum-metrics)
+* [Scrum Metrics 101: Atlassian](https://www.atlassian.com/agile/scrum/scrum-metrics)
 * [Scrum Metrics and Their Value to Scrum Teams](https://itphobia.com/11-scrum-metrics-and-their-value-to-scrum-teams/)
 * [The Essentials of Scrum Metrics](https://deeprojectmanager.com/scrum-metrics/)
 * [Agile Scrum Sprint Metrics Template](https://github.com/eric-spink-agile/agile-scrum-sprint-metrics-template)
