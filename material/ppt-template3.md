@@ -2,7 +2,7 @@
 
 ---
 
-### **Slide 1 – Title & Team**
+### **Slide 1: Title & Team**
 - **Project Name**
 - **Sprint 3 Presentation**
 - **Team Name & Members**
@@ -10,13 +10,13 @@
 
 ---
   
-### **Slide 2 – Sprint 1 Recap**
+### **Slide 2: Sprint 1 Recap**
 - Briefly show the **prototype** from Sprint 1  
 - Highlight the original goals and vision
 
 ---
 
-### **Slide 3 – Sprint 3 Goals**
+### **Slide 3: Sprint 3 Goals**
 - List the main objectives for Sprint 3  
   - Front‑end goals  
   - Back‑end goals  
@@ -25,7 +25,7 @@
 
 ---
 
-### **Slide 4 – Front‑End Progress & Self‑Assessment**
+### **Slide 4: Front‑End Progress & Self‑Assessment**
 - Short live demo
 - Key components created  
 - **Self‑assessment summary** (from LLM review):  
@@ -34,7 +34,7 @@
 
 ---
 
-### **Slide 5 – Back‑End Progress & Self‑Assessment**
+### **Slide 5: Back‑End Progress & Self‑Assessment**
 - API endpoints created or updated  
 - AI/LLM integration details  
 - API tests performed  
@@ -44,14 +44,14 @@
 
 ---
 
-### **Slide 6 – Alignment with Sprint 1 Prototype**
+### **Slide 6: Alignment with Sprint 1 Prototype**
 - Side‑by‑side comparison: prototype vs. current build  
 - Highlight functional and design alignment  
 - Note any intentional deviations and why  
 
 ---
 
-### **Slide 7 – Sprint Ceremony Insights**
+### **Slide 7: Sprint Ceremony Insights**
 - **Daily Scrum**: attendance, communication highlights  
 - **Sprint Review**: feedback from stakeholders (if applicable)  
 - **Sprint Retrospective (4Ls)**:  
@@ -62,14 +62,14 @@
 
 ---
 
-### **Slide 8 – Remaining Tasks & Future Work**
+### **Slide 8: Remaining Tasks & Future Work**
 - Features not completed in Sprint 3  
 - Planned improvements for future work  
 - Risks or blockers to address  
 
 ---
 
-### **Slide 9 – Team Contributions**
+### **Slide 9: Team Contributions**
 | Member | Key Contributions |
 |--------|-------------------|
 | Name 1 | e.g., Built login form, styled dashboard |
@@ -81,14 +81,13 @@
 
 ---
 
-### **Slide 10 – Bonus Work (Optional)**
-- API documentation (if created)  
-- `useContext()` implementation (if applied)  
+### **Slide 10: Bonus Work**
+
 - Any other extra features beyond requirements  
 
 ---
  
-### **Slide 11 – Summary, Lessons Learned & Closing**
+### **Slide 11: Summary, Lessons Learned & Closing**
 - Recap major achievements of Sprint 3  
 - Key lessons learned (technical + teamwork)  
 - Acknowledge team effort  

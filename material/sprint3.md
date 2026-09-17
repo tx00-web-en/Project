@@ -434,7 +434,7 @@ The presentation should take approximately 10–12 minutes.
 
 Alignment with the Sprint 1 prototype is **mandatory**.
 
-Your current application should remain aligned with the original project direction in terms of:
+Your current application should remain aligned with the original project direction.
 
 ### Functional Alignment
 
@@ -456,9 +456,9 @@ All team members must contribute meaningfully to the project.
 
 Unequal participation may result in a penalty for members who do not participate fully.
 
-## On-time Submission
+<!-- ## On-time Submission
 
-Late submissions will receive penalties. Meeting deadlines is an important part of working in an Agile environment.
+Late submissions will receive penalties. Meeting deadlines is an important part of working in an Agile environment. -->
 
 ## Team Communication
 
@@ -548,7 +548,7 @@ As new technical instructions are provided, update:
 
 * Review the Sprint 1 prototype regularly.
 * Check both functionality and design.
-* Explain significant changes to the project direction.
+
 
 ---
 
