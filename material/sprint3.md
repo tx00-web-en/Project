@@ -249,7 +249,10 @@ Reflect on:
 * Team satisfaction
 * Improvements for the next sprint
 
-More information about Scrum is available through the [Scrum.org learning resources](https://www.scrum.org/learning-series/what-is-scrum/).
+More information about 4Ls method is available [here](https://www.teamoclock.com/blog/a-simple-guide-to-the-4-ls-retrospective-method).
+
+> [!NOTE]  
+> Retrospective focuses primarily on how the team works: processes, collaboration/interactions, tools, practices, and agreements such as the Definition of Done. It is not primarily a session for inspecting the product; product quality and outcomes are inspected during the Sprint Review and through ongoing development/testing.
 
 ## 6. Team Contributions
 
